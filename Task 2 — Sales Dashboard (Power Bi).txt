@@ -1,0 +1,14 @@
+# Task 2 — Sales Dashboard (Power BI)
+
+Files:
+- Task2_Dashboard.pbix
+- Task2_Dashboard.pdf
+- Superstore.csv
+
+Key findings:
+1. [Short finding 1]
+2. [Short finding 2]
+3. [Short finding 3]
+
+How to open:
+- Open Task2_Dashboard.pbix in Power BI Desktop (free).
